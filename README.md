@@ -9,6 +9,6 @@ Get the Process of your quake3 engine game and call this method
 It will return a boolean true if done correctly.
 
 C#  
-InjectorClass.DoInject(process, fileToInject, returnString);  
+InjectorClass.DoInject(process, 'filePath to inject', returnString);  
 VB.net  
-InjectorClass.DoInject(process, fileToInject, returnString)  
+InjectorClass.DoInject(process, 'filePath to inject', returnString)  
